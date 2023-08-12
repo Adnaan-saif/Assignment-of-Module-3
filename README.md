@@ -8,5 +8,4 @@ Kindly Navigate the files accordingly ~
 6) javascript es6 static keyword = es6StaticKeyword.js
 7) javascript es6 class inheritance = es6ClassInheritance.js
 8) javascript es6 super keyword = es6SuperKeyword.js
-</br>
-Thank you!
+</br>Thank you!
