@@ -9,3 +9,4 @@ function printObjectProperties(obj) {
         }
     }
 }
+printObjectProperties();

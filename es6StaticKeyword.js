@@ -3,3 +3,4 @@ class MathUtility {
         return a*b;
     }    
 }
+MathUtility.multiply();

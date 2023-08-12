@@ -11,3 +11,4 @@ function findMaxNumber (numberArray) {
         return maxNumber;
     }
 }
+findMaxNumber([]);
