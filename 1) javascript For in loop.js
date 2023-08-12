@@ -9,5 +9,3 @@ function printObjectProperties(obj) {
         }
     }
 }
-
-printObjectProperties();
